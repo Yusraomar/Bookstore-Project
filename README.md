@@ -14,6 +14,8 @@ The main goal was to create a visually appealing and functional landing page for
 - **Improved Accessibility:** Further enhancements to ensure the page is accessible to all users, including those with disabilities.
 - **Performance Optimisation:** Optimise the landing page for faster load times and better performance.
 # Contributors 
-Anisha Dhariwal
-Hamdi Abdirahman
-Yusra
+<ul>
+  <li>Anisha Dhariwa</li>
+  <li>Hamdi Abdirahman</li>
+  <li>Yusra Omar</li>
+</ul>
